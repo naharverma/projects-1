@@ -2,3 +2,4 @@ daily
 fgf
 lkj
 MNMN
+testnet
